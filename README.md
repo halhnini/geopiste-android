@@ -1,14 +1,4 @@
-# [Traccar Manager for Android](https://www.traccar.org/manager)
-
-[![Get it on Google Play](http://www.tananaev.com/badges/google-play.svg)](https://play.google.com/store/apps/details?id=org.traccar.manager)
-
-## Overview
-
-Traccar Manager is a mobile application to manage GPS tracking devices. It requires a Traccar server instance to work.
-
-## Team
-
-- Anton Tananaev ([anton@traccar.org](mailto:anton@traccar.org))
+Geopiste Manager is a mobile application to manage GPS tracking devices. It requires a Geopiste server instance to work.
 
 ## License
 
